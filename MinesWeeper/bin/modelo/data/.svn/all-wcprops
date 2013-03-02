@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data
+END
+Level.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/Level.hbm.xml
+END
+JPanelBotones.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/JPanelBotones.java
+END
+Level.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/Level.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/Cell.java
+END
+Player.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/Player.hbm.xml
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/modelo/data/Player.java
+END

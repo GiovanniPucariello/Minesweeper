@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador
+END
+ControladorWelcome.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador/ControladorWelcome.java
+END
+ControladorScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador/ControladorScore.java
+END
+ControladorCustom.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador/ControladorCustom.java
+END
+ControladorPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador/ControladorPlayer.java
+END
+ControladorMinesWeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/%202-7-primer-proyecto/MinesWeeper/src/controlador/ControladorMinesWeeper.java
+END
